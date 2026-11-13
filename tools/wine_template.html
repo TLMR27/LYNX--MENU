@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wine List 2026 · Six Lakes Restaurant · The Lynx Mountain Resort</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --gold:#A48242; --gold-deep:#6B4E1C; --wine:#5a1f2b; --ink:#2a2420;
+    --paper:#fbf8f2; --line:#e6dccb; --muted:#7d7266;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{background:var(--paper);color:var(--ink);font-family:'Jost',sans-serif;font-weight:400;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:640px;margin:0 auto;padding:0 20px 70px}
+
+  /* Hero */
+  .hero{text-align:center;padding:46px 20px 34px;background:
+      radial-gradient(90% 70% at 50% 0%, rgba(164,130,66,.16), transparent 70%);}
+  .hero svg{width:64px;height:64px}
+  .hero .resort{margin-top:10px;font-size:.7rem;letter-spacing:.32em;color:var(--gold-deep);text-transform:uppercase}
+  .hero .rest{margin-top:22px;font-size:.78rem;letter-spacing:.28em;color:var(--gold-deep);text-transform:uppercase}
+  .hero h1{font-family:'Cormorant Garamond',serif;font-weight:700;font-size:3.1rem;letter-spacing:.04em;line-height:1;margin-top:6px}
+  .hero .year{margin-top:8px;color:var(--gold-deep);font-size:.85rem;letter-spacing:.2em}
+  .hero .rule{width:150px;height:1px;background:var(--gold);margin:16px auto}
+  .hero .tag{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:1.25rem;color:var(--gold-deep)}
+
+  /* Language */
+  .tools{display:flex;gap:8px;align-items:center;margin:10px 20px 0}
+  .lang{flex:none;display:flex;border:1px solid var(--gold);border-radius:20px;overflow:hidden;background:var(--paper)}
+  .lang button{border:0;background:none;padding:10px 12px;font:500 .75rem 'Jost';letter-spacing:.08em;color:var(--gold-deep);cursor:pointer}
+  .lang button.on{background:var(--gold-deep);color:#fff}
+
+  /* Welcome */
+  .welcome{margin:6px 0 10px;padding:22px 20px;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .welcome h3{font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:600;margin-bottom:8px}
+  .welcome p{font-family:'Cormorant Garamond',serif;font-size:1.08rem;line-height:1.55;color:#4a4038;margin-top:8px}
+  .welcome details summary{cursor:pointer;color:var(--gold-deep);font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;margin-top:10px;list-style:none}
+  .welcome details summary::-webkit-details-marker{display:none}
+
+  /* Nav */
+  nav{position:sticky;top:0;z-index:10;background:linear-gradient(var(--paper) 82%, rgba(251,248,242,0));padding:12px 0 14px;margin:0 -20px;}
+  .tabs{display:flex;gap:8px;overflow-x:auto;padding:0 20px;scrollbar-width:none}
+  .tabs::-webkit-scrollbar{display:none}
+  .tabs a{flex:none;text-decoration:none;color:var(--ink);font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;padding:8px 14px;border:1px solid var(--line);border-radius:22px;background:#fff;white-space:nowrap}
+  .tabs a.on{background:var(--wine);border-color:var(--wine);color:#fff}
+  .search{flex:1;position:relative}
+  .search input{width:100%;padding:10px 14px 10px 36px;border:1px solid var(--line);border-radius:22px;background:#fff;font:400 .9rem 'Jost';color:var(--ink);outline:none}
+  .search input:focus{border-color:var(--gold)}
+  .search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);width:16px;height:16px;stroke:var(--muted)}
+
+  /* Sections */
+  section{padding-top:26px;scroll-margin-top:110px}
+  .sec-title{text-align:center;margin-bottom:6px}
+  .sec-title .gr{font-family:'Cormorant Garamond',serif;font-weight:700;font-size:1.55rem;letter-spacing:.06em;text-transform:uppercase}
+  .sec-title .orn{color:var(--gold);letter-spacing:.5em;font-size:.7rem;margin-top:4px}
+  .sub{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;margin:26px 0 4px;padding-bottom:8px;border-bottom:1px solid var(--gold)}
+  .sub h4{font-family:'Cormorant Garamond',serif;font-style:italic;font-weight:500;font-size:1.25rem;color:var(--gold-deep);line-height:1.2}
+  .sub .cols{display:flex;gap:14px;font-size:.66rem;color:var(--gold-deep);text-align:center;letter-spacing:.04em;flex:none}
+  .sub .cols span{width:54px}
+
+  .wine{display:flex;gap:12px;padding:16px 0;border-bottom:1px solid var(--line)}
+  .wine .code{flex:none;width:34px;font-family:'Cormorant Garamond',serif;font-size:1rem;color:var(--gold-deep);padding-top:2px}
+  .wine .body{flex:1;min-width:0}
+  .wine .name{font-family:'Cormorant Garamond',serif;font-size:1.22rem;font-weight:600;line-height:1.25}
+  .wine .prod{font-family:'Cormorant Garamond',serif;font-size:1.05rem;color:var(--gold-deep);margin-top:1px}
+  .wine .grapes{font-size:.68rem;letter-spacing:.06em;color:var(--muted);margin-top:6px;line-height:1.5}
+  .wine .desc{font-size:.86rem;line-height:1.5;color:#463c34;margin-top:5px;font-weight:300}
+  .wine .prices{flex:none;display:flex;gap:14px;text-align:center;padding-top:3px}
+  .wine .prices div{width:54px;font-weight:500;font-size:1rem}
+  .wine .prices small{display:block;font-size:.58rem;color:var(--muted);letter-spacing:.06em;font-weight:400;text-transform:uppercase}
+  .hidden{display:none!important}
+  .empty{text-align:center;color:var(--muted);padding:40px 0;font-style:italic}
+
+  .vint{font-size:.78rem;color:var(--muted);font-style:italic;margin-top:12px;text-align:center}
+
+  /* Info */
+  .info{margin-top:44px;padding:22px 20px;background:#fff;border:1px solid var(--line);border-radius:12px}
+  .info h5{font-family:'Cormorant Garamond',serif;font-size:1.05rem;letter-spacing:.08em;text-transform:uppercase;text-align:center;color:var(--gold-deep);margin-bottom:12px}
+  .info p{font-size:.8rem;line-height:1.55;color:#4a4038;margin-top:8px}
+  .info .resp{text-align:center;margin-top:16px;font-size:.78rem}
+  footer{text-align:center;margin-top:30px;color:var(--muted);font-size:.75rem;letter-spacing:.12em}
+  footer .stars{color:var(--gold);letter-spacing:.45em;margin-bottom:6px}
+
+  @media (max-width:420px){
+    .hero h1{font-size:2.5rem}
+    .wine .prices{gap:6px}.wine .prices div,.sub .cols span{width:46px}
+    .sub .cols{gap:6px}
+    .wine .code{width:28px;font-size:.92rem}
+  }
+</style>
+</head>
+<body>
+
+
+<header class="hero">
+  <svg viewBox="0 0 64 64" aria-hidden="true"><g fill="#A48242" id="sun"></g></svg>
+  <div class="resort">The Lynx Mountain Resort</div>
+  <div class="rest">Six Lakes Restaurant</div>
+  <h1>WINE LIST</h1>
+  <div class="year">2026</div>
+  <div class="rule"></div>
+  <div class="tag">A Journey Through Greek Terroir</div>
+</header>
+
+<div class="wrap">
+
+  <div class="welcome">
+    <div data-gr>
+      <h3>Στο The Six Lakes Restaurant, το κρασί αποτελεί μέρος της ιστορίας του τόπου μας.</h3>
+      <p>Βρισκόμαστε στη Φλώρινα, σε μία από τις σημαντικότερες και πιο ιδιαίτερες αμπελουργικές περιοχές της Ελλάδας. Το υψόμετρο, οι λίμνες, οι ψυχροί χειμώνες και το ξεχωριστό μικροκλίμα της Δυτικής Μακεδονίας δημιουργούν ένα terroir με ισχυρή προσωπικότητα, που εκφράζεται μοναδικά μέσα από τα κρασιά της περιοχής.</p>
+      <details><summary>Περισσότερα +</summary>
+        <p>Η Wine List μας ξεκινά, φυσικά, από τη Φλώρινα και το Αμύνταιο, με ιδιαίτερη αναφορά στο Ξινόμαυρο, αλλά ταξιδεύει στη συνέχεια σε σημαντικούς αμπελώνες και οινοποιούς από ολόκληρη την Ελλάδα.</p>
+        <p>Από το Ασύρτικο της Σαντορίνης και τις γηγενείς ποικιλίες της Βόρειας Ελλάδας μέχρι σπάνιες και επιλεγμένες ετικέτες και εμβληματικά κρασιά του σύγχρονου ελληνικού αμπελώνα, κάθε επιλογή έχει τη δική της θέση και ιστορία.</p>
+        <p>Η φιλοσοφία μας είναι απλή: να σας προσφέρουμε όχι απλώς ένα κρασί, αλλά έναν τόπο, έναν άνθρωπο και μία ιστορία μέσα σε κάθε ποτήρι.</p>
+        <p>Καλώς ήρθατε στο δικό μας ταξίδι μέσα από το ελληνικό terroir.</p>
+      </details>
+    </div>
+    <div data-en class="hidden">
+      <h3>At The Six Lakes Restaurant, wine is part of the story of our land.</h3>
+      <p>We are in Florina, one of Greece’s most distinctive wine regions. Altitude, lakes, cold winters and the unique climate of Western Macedonia create a remarkable terroir, expressed through wines of character and identity.</p>
+      <details><summary>More +</summary>
+        <p>Our Wine List naturally begins with Florina and Amyndeon, with a special place for Xinomavro, before continuing its journey through some of Greece’s most important vineyards and winemakers.</p>
+        <p>From Santorini’s Assyrtiko and the indigenous varieties of Northern Greece to rare and carefully selected labels and iconic expressions of contemporary Greek winemaking, every bottle has been chosen to tell its own story.</p>
+        <p>Our philosophy is simple: to offer you not simply a wine, but a place, a person and a story in every glass.</p>
+        <p>Welcome to our journey through Greek terroir.</p>
+      </details>
+    </div>
+  </div>
+
+  <nav>
+    <div class="tabs" id="tabs"></div>
+    <div class="tools">
+    <div class="search">
+      <svg viewBox="0 0 24 24" fill="none" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Αναζήτηση κρασιού, ποικιλίας, οινοποιείου…">
+    </div>
+    <div class="lang"><button data-l="gr" class="on">ΕΛ</button><button data-l="en">EN</button></div>
+    </div>
+  </nav>
+
+  <main id="list"></main>
+  <div id="empty" class="empty hidden"></div>
+
+  <div class="info">
+    <h5 data-gr>Πληροφορίες καταναλωτή</h5><h5 data-en class="hidden">Guest information</h5>
+    <p data-gr>Οι τιμές αναγράφονται σε Ευρώ (€) και περιλαμβάνουν Φ.Π.Α. και όλους τους νόμιμους φόρους.</p>
+    <p data-en class="hidden">All prices are in Euro (€) and include VAT and all applicable taxes.</p>
+    <p data-gr>Περιέχει θειώδη.</p><p data-en class="hidden">Contains sulphites.</p>
+    <p data-gr>Ο καταναλωτής δεν έχει υποχρέωση να πληρώσει εάν δεν λάβει το νόμιμο παραστατικό στοιχείο (απόδειξη – τιμολόγιο).</p>
+    <p data-en class="hidden">Consumer is not obliged to pay if the notice of payment (receipt – invoice) has not been received.</p>
+    <p data-gr>Το κατάστημα διαθέτει υποχρεωτικά φύλλα διαμαρτυρίας για τους πελάτες σε ειδική θέση δίπλα στην έξοδο.</p>
+    <p data-en class="hidden">The establishment is required to provide complaint forms for customers in a designated location next to the exit.</p>
+    <div class="resp"><span data-gr>Αγορανομικός υπεύθυνος: Ιωάννης Τσακτσίρης</span><span data-en class="hidden">Person responsible for regulatory compliance: Ioannis Tsaktsiris</span></div>
+  </div>
+
+  <footer>
+    <div class="stars">★★★★★</div>
+    THE LYNX MOUNTAIN RESORT · <span data-gr>ΦΛΩΡΙΝΑ</span><span data-en class="hidden">FLORINA</span>
+  </footer>
+</div>
+
+<script>
+const WINES = __DATA__;
+
+const SECTIONS = [
+  {id:'glass',     gr:'Κρασιά σε ποτήρι',                 en:'Wines by the Glass'},
+  {id:'white',     gr:'Λευκά',                            en:'White Wines'},
+  {id:'rose',      gr:'Ροζέ',                             en:'Rosé Wines'},
+  {id:'red',       gr:'Ερυθρά',                           en:'Red Wines'},
+  {id:'prestige',  gr:'Σπάνιες & Επιλεγμένες Ετικέτες',   en:'Prestige Wines'},
+  {id:'champagne', gr:'Σαμπάνια & Εμβληματικοί Αφρώδεις', en:'Champagne & Iconic Sparkling'}
+];
+const T = {
+  gr:{glass:'Ποτήρι',bottle:'Φιάλη',search:'Αναζήτηση κρασιού, ποικιλίας, οινοποιείου…',none:'Δεν βρέθηκε κρασί.',vint:'Οι σοδειές ενδέχεται να διαφοροποιηθούν ανάλογα με τη διαθεσιμότητα.'},
+  en:{glass:'Glass',bottle:'Bottle',search:'Search wine, grape, winery…',none:'No wine found.',vint:'Vintages may vary subject to availability.'}
+};
+let lang = 'gr';
+try{ lang = localStorage.getItem('lynxLang') || 'gr'; }catch(e){}
+
+// logo sun of dots
+(function(){
+  const g=document.getElementById('sun'); let s='';
+  [[10,12,2.6],[17,18,2.1],[24,24,1.7]].forEach(([r,n,d],k)=>{for(let i=0;i<n;i++){const a=i/n*2*Math.PI+(k%2?Math.PI/n:0);s+=`<circle cx="${(32+r*Math.cos(a)).toFixed(2)}" cy="${(32+r*Math.sin(a)).toFixed(2)}" r="${d}"/>`}});
+  g.innerHTML=s;
+})();
+
+const esc = s => (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const norm = s => (s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
+
+function render(){
+  const L = lang, t = T[L];
+  document.documentElement.lang = L==='gr'?'el':'en';
+  document.querySelectorAll('[data-gr]').forEach(e=>e.classList.toggle('hidden',L!=='gr'));
+  document.querySelectorAll('[data-en]').forEach(e=>e.classList.toggle('hidden',L!=='en'));
+  document.querySelectorAll('.lang button').forEach(b=>b.classList.toggle('on',b.dataset.l===L));
+  document.getElementById('q').placeholder = t.search;
+  document.getElementById('empty').textContent = t.none;
+  document.getElementById('tabs').innerHTML = SECTIONS.map(s=>`<a href="#${s.id}" data-s="${s.id}">${s[L]}</a>`).join('');
+
+  let html='';
+  SECTIONS.forEach(sec=>{
+    const items = WINES.filter(w=>w.section===sec.id);
+    html += `<section id="${sec.id}"><div class="sec-title"><div class="gr">${sec[L]}</div><div class="orn">◆ ◆ ◆</div></div>`;
+    let lastSub = '__';
+    items.forEach((w,i)=>{
+      const subKey = w.sub ? w.sub.join('|') : null;
+      if(subKey!==lastSub){
+        const isGlass = sec.id==='glass';
+        const sz = w.sizes || ['','750 ml'];
+        const cols = isGlass
+          ? `<div class="cols"><span>${t.glass}<br>${sz[0]}</span><span>${t.bottle}<br>${sz[1]}</span></div>`
+          : `<div class="cols"><span>${t.bottle}<br>750 ml</span></div>`;
+        const title = w.sub ? (L==='gr'?w.sub[0]:w.sub[1]) : '';
+        html += `<div class="sub" data-subhead><h4>${esc(title)}</h4>${cols}</div>`;
+        lastSub = subKey;
+      }
+      const name = L==='gr'?w.name_gr:w.name_en, prod = L==='gr'?w.prod_gr:w.prod_en;
+      const hay = norm([w.code,w.name_gr,w.name_en,w.prod_gr,w.prod_en,w.grapes_gr,w.grapes_en,w.desc_gr,w.desc_en].join(' '));
+      const prices = w.glass!=null
+        ? `<div>€${w.glass}</div><div>€${w.bottle}</div>`
+        : `<div>€${w.bottle}</div>`;
+      html += `<div class="wine" data-hay="${esc(hay)}">
+        <div class="code">${w.code}.</div>
+        <div class="body">
+          <div class="name">${esc(name)}</div>
+          ${prod?`<div class="prod">${esc(prod)}</div>`:''}
+          <div class="grapes">${esc(L==='gr'?w.grapes_gr:w.grapes_en)}</div>
+          <div class="desc">${esc(L==='gr'?w.desc_gr:w.desc_en)}</div>
+        </div>
+        <div class="prices">${prices}</div>
+      </div>`;
+    });
+    if(sec.id==='prestige') html += `<div class="vint">${t.vint}</div>`;
+    html += `</section>`;
+  });
+  document.getElementById('list').innerHTML = html;
+  filter();
+  spy();
+}
+
+function filter(){
+  const q = norm(document.getElementById('q').value.trim());
+  let shown=0;
+  document.querySelectorAll('section').forEach(sec=>{
+    let secShown=0, sub=null, subShown=0;
+    const flush=()=>{ if(sub) sub.classList.toggle('hidden',subShown===0); };
+    sec.querySelectorAll('[data-subhead], .wine').forEach(el=>{
+      if(el.hasAttribute('data-subhead')){ flush(); sub=el; subShown=0; return; }
+      const ok = !q || el.dataset.hay.includes(q);
+      el.classList.toggle('hidden',!ok);
+      if(ok){secShown++;subShown++;shown++;}
+    });
+    flush();
+    sec.classList.toggle('hidden',secShown===0);
+  });
+  document.getElementById('empty').classList.toggle('hidden',shown>0);
+}
+
+function spy(){
+  const tabs=[...document.querySelectorAll('.tabs a')];
+  const secs=[...document.querySelectorAll('section')];
+  const on=()=>{
+    let cur=secs[0]&&secs[0].id;
+    secs.forEach(s=>{ if(!s.classList.contains('hidden') && s.getBoundingClientRect().top<140) cur=s.id; });
+    tabs.forEach(a=>{
+      const act=a.dataset.s===cur; a.classList.toggle('on',act);
+      if(act){ const p=a.parentElement; const l=a.offsetLeft-p.clientWidth/2+a.clientWidth/2; if(Math.abs(p.scrollLeft-l)>40) p.scrollTo({left:l,behavior:'smooth'}); }
+    });
+  };
+  window.onscroll=on; on();
+}
+
+document.getElementById('q').addEventListener('input',filter);
+document.querySelectorAll('.lang button').forEach(b=>b.onclick=()=>{
+  lang=b.dataset.l; try{localStorage.setItem('lynxLang',lang);}catch(e){} render();
+});
+render();
+</script>
+</body>
+</html>

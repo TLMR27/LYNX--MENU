@@ -1,0 +1,1184 @@
+[
+ {
+  "code": 1,
+  "section": "glass",
+  "sub": [
+   "Αφρώδεις Οίνοι",
+   "Sparkling"
+  ],
+  "name_gr": "Karanika Brut Cuvée Spéciale",
+  "prod_gr": "Κτήμα Καρανίκα",
+  "name_en": "Karanika Brut Cuvée Spéciale",
+  "prod_en": "Domaine Karanika",
+  "glass": 8,
+  "bottle": 45,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ, ΝΤΕΜΠΙΝΑ • Π.Γ.Ε. ΗΠΕΙΡΟΣ",
+  "grapes_en": "XINOMAVRO, DEBINA • PGI EPIRUS",
+  "desc_gr": "Λεπτές φυσαλίδες, δροσερή οξύτητα και χαρακτήρας κόκκινων φρούτων",
+  "desc_en": "Fine mousse, fresh acidity, red fruit character",
+  "sizes": [
+   "125 ml",
+   "750 ml"
+  ]
+ },
+ {
+  "code": 2,
+  "section": "glass",
+  "sub": [
+   "Αφρώδεις Οίνοι",
+   "Sparkling"
+  ],
+  "name_gr": "Poème de Nature Rosé",
+  "prod_gr": "Γκλίναβος",
+  "name_en": "Poème de Nature Rosé",
+  "prod_en": "Glinavos Estate",
+  "glass": 9,
+  "bottle": 50,
+  "grapes_gr": "ΕΡΥΘΡΕΣ ΠΟΙΚΙΛΙΕΣ • Π.Γ.Ε. ΗΠΕΙΡΟΣ",
+  "grapes_en": "RED VARIETIES • PGI EPIRUS",
+  "desc_gr": "Φρουτώδες, ανάλαφρο και δροσιστικό ημιαφρώδες ροζέ",
+  "desc_en": "Fruity, light, refreshing semi-sparkling rosé",
+  "sizes": [
+   "125 ml",
+   "750 ml"
+  ]
+ },
+ {
+  "code": 3,
+  "section": "glass",
+  "sub": [
+   "Λευκά",
+   "White"
+  ],
+  "name_gr": "Λευκό Γράμμα",
+  "prod_gr": "Μπουτάρη",
+  "name_en": "Lefko Gramma",
+  "prod_en": "Boutari",
+  "glass": 7,
+  "bottle": 28,
+  "grapes_gr": "ΑΣΥΡΤΙΚΟ, SAUVIGNON BLANC, ΜΑΛΑΓΟΥΖΙΑ • Π.Γ.Ε. ΜΑΚΕΔΟΝΙΑ",
+  "grapes_en": "ASSYRTIKO, SAUVIGNON BLANC, MALAGOUZIA • PGI MACEDONIA",
+  "desc_gr": "Ισορροπημένο χαρμάνι με δροσερές βοτανικές νότες",
+  "desc_en": "Balanced blend with herbal freshness",
+  "sizes": [
+   "150 ml",
+   "750 ml"
+  ]
+ },
+ {
+  "code": 4,
+  "section": "glass",
+  "sub": [
+   "Λευκά",
+   "White"
+  ],
+  "name_gr": "Μύλος",
+  "prod_gr": "Κτήμα Βεγορίτις",
+  "name_en": "Mylos",
+  "prod_en": "Vegoritis Winery",
+  "glass": 7,
+  "bottle": 28,
+  "grapes_gr": "ΜΑΛΑΓΟΥΖΙΑ, CHARDONNAY, ΡΟΔΙΤΗΣ • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "MALAGOUZIA, CHARDONNAY, RODITIS • PGI FLORINA",
+  "desc_gr": "Δροσερό, ανθικό και ευχάριστα ευκολόπιοτο",
+  "desc_en": "Fresh, floral, easy-drinking style",
+  "sizes": [
+   "150 ml",
+   "750 ml"
+  ]
+ },
+ {
+  "code": 5,
+  "section": "glass",
+  "sub": [
+   "Λευκά",
+   "White"
+  ],
+  "name_gr": "Μποστάνι",
+  "prod_gr": "Amoenos Vineyards",
+  "name_en": "Bostani",
+  "prod_en": "Amoenos Vineyards",
+  "glass": 8,
+  "bottle": 34,
+  "grapes_gr": "SAUVIGNON BLANC & ΑΣΥΡΤΙΚΟ • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "SAUVIGNON BLANC & ASSYRTIKO • PGI FLORINA",
+  "desc_gr": "Δροσερό, εσπεριδοειδές, με ζωηρή ορυκτότητα",
+  "desc_en": "Fresh, citrusy, vibrant minerality",
+  "sizes": [
+   "150 ml",
+   "750 ml"
+  ]
+ },
+ {
+  "code": 6,
+  "section": "glass",
+  "sub": [
+   "Λευκά",
+   "White"
+  ],
+  "name_gr": "Μαλαγουζιά",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "Malagouzia",
+  "prod_en": "Alpha Estate",
+  "glass": 8,
+  "bottle": 37,
+  "grapes_gr": "ΜΑΛΑΓΟΥΖΙΑ • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "MALAGOUZIA • PGI FLORINA",
+  "desc_gr": "Αρωματικό, εκφραστικό, με ζωηρή οξύτητα",
+  "desc_en": "Aromatic, expressive, crisp acidity",
+  "sizes": [
+   "150 ml",
+   "750 ml"
+  ]
+ },
+ {
+  "code": 7,
+  "section": "glass",
+  "sub": [
+   "Ροζέ",
+   "Rosé"
+  ],
+  "name_gr": "Μύλος Ροζέ",
+  "prod_gr": "Κτήμα Βεγορίτις",
+  "name_en": "Mylos Rosé",
+  "prod_en": "Vegoritis Winery",
+  "glass": 7,
+  "bottle": 27,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ, SYRAH • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "XINOMAVRO, SYRAH • PGI FLORINA",
+  "desc_gr": "Δροσερό, ανάλαφρο και φρουτώδες ροζέ",
+  "desc_en": "Fresh, light, fruity rosé",
+  "sizes": [
+   "150 ml",
+   "750 ml"
+  ]
+ },
+ {
+  "code": 8,
+  "section": "glass",
+  "sub": [
+   "Ροζέ",
+   "Rosé"
+  ],
+  "name_gr": "Rock & Rose",
+  "prod_gr": "Μπαϊρακτάρης",
+  "name_en": "Rock & Rose",
+  "prod_en": "Ktima Bairaktaris",
+  "glass": 7,
+  "bottle": 27,
+  "grapes_gr": "ΑΓΙΩΡΓΙΤΙΚΟ, ΜΑΛΑΓΟΥΖΙΑ • Π.Γ.Ε. ΚΟΡΙΝΘΙΑ",
+  "grapes_en": "AGIORGITIKO, MALAGOUZIA • PGI CORINTHIA",
+  "desc_gr": "Φρουτώδες, αρωματικό και ευχάριστο",
+  "desc_en": "Fruity, aromatic, easy style",
+  "sizes": [
+   "150 ml",
+   "750 ml"
+  ]
+ },
+ {
+  "code": 9,
+  "section": "glass",
+  "sub": [
+   "Ροζέ",
+   "Rosé"
+  ],
+  "name_gr": "Μπλε Τρακτέρ Ροζέ",
+  "prod_gr": "Κυρ-Γιάννη",
+  "name_en": "Ble Tracter Rosé",
+  "prod_en": "Kir-Yianni",
+  "glass": 8,
+  "bottle": 34,
+  "grapes_gr": "MERLOT • Π.Γ.Ε. ΜΑΚΕΔΟΝΙΑ",
+  "grapes_en": "MERLOT • PGI MACEDONIA",
+  "desc_gr": "Κομψό ροζέ με δομή και ισορροπία",
+  "desc_en": "Elegant, structured rosé style",
+  "sizes": [
+   "150 ml",
+   "750 ml"
+  ]
+ },
+ {
+  "code": 10,
+  "section": "glass",
+  "sub": [
+   "Ερυθρά",
+   "Red"
+  ],
+  "name_gr": "Νάουσα Cuvée",
+  "prod_gr": "Κυρ-Γιάννη",
+  "name_en": "Naoussa Cuvée",
+  "prod_en": "Kir-Yianni",
+  "glass": 8,
+  "bottle": 38,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ • Π.Ο.Π. ΝΑΟΥΣΑ",
+  "grapes_en": "XINOMAVRO • PDO NAOUSSA",
+  "desc_gr": "Κλασική δομή Ξινόμαυρου με ένταση και νεύρο",
+  "desc_en": "Classic Xinomavro structure and tension",
+  "sizes": [
+   "150 ml",
+   "750 ml"
+  ]
+ },
+ {
+  "code": 11,
+  "section": "glass",
+  "sub": [
+   "Ερυθρά",
+   "Red"
+  ],
+  "name_gr": "Axia",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "Axia",
+  "prod_en": "Alpha Estate",
+  "glass": 9,
+  "bottle": 40,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ, SYRAH • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "XINOMAVRO, SYRAH • PGI FLORINA",
+  "desc_gr": "Πικάντικο ερυθρό, με δομή και ισορροπία",
+  "desc_en": "Spicy, structured, balanced red",
+  "sizes": [
+   "150 ml",
+   "750 ml"
+  ]
+ },
+ {
+  "code": 12,
+  "section": "glass",
+  "sub": [
+   "Ερυθρά",
+   "Red"
+  ],
+  "name_gr": "The Fallen Oak",
+  "prod_gr": "Κυρ-Γιάννη",
+  "name_en": "The Fallen Oak",
+  "prod_en": "Kir-Yianni",
+  "glass": 9,
+  "bottle": 42,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ, MERLOT, SYRAH • Π.Γ.Ε. ΗΜΑΘΙΑ",
+  "grapes_en": "XINOMAVRO, MERLOT, SYRAH • PGI IMATHIA",
+  "desc_gr": "Γήινο, παραδοσιακό και σύνθετο",
+  "desc_en": "Earthy, traditional, complex",
+  "sizes": [
+   "150 ml",
+   "750 ml"
+  ]
+ },
+ {
+  "code": 13,
+  "section": "glass",
+  "sub": [
+   "Ερυθρά",
+   "Red"
+  ],
+  "name_gr": "Terra Petra Ραψάνη",
+  "prod_gr": "Θυμιόπουλος",
+  "name_en": "Terra Petra Rapsani",
+  "prod_en": "Thymiopoulos Vineyards",
+  "glass": 12,
+  "bottle": 56,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ, ΚΡΑΣΑΤΟ, ΣΤΑΥΡΩΤΟ • Π.Ο.Π. ΡΑΨΑΝΗ",
+  "grapes_en": "XINOMAVRO, KRASATO, STAVROTO • PDO RAPSANI",
+  "desc_gr": "Κομψό και πικάντικο, μεσαίου σώματος, με ορεινό χαρακτήρα",
+  "desc_en": "Elegant, spicy, medium-bodied, mountain character",
+  "sizes": [
+   "150 ml",
+   "750 ml"
+  ]
+ },
+ {
+  "code": 14,
+  "section": "glass",
+  "sub": [
+   "Επιδόρπιοι Οίνοι",
+   "Dessert Wines"
+  ],
+  "name_gr": "Omega",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "Omega",
+  "prod_en": "Alpha Estate",
+  "glass": 10,
+  "bottle": 52,
+  "grapes_gr": "GEWÜRZTRAMINER, ΜΑΛΑΓΟΥΖΙΑ • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "GEWÜRZTRAMINER, MALAGOUZIA • PGI FLORINA",
+  "desc_gr": "Ανθική γλυκύτητα με νότες μελιού",
+  "desc_en": "Floral sweetness with honeyed notes",
+  "sizes": [
+   "75 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "code": 15,
+  "section": "glass",
+  "sub": [
+   "Επιδόρπιοι Οίνοι",
+   "Dessert Wines"
+  ],
+  "name_gr": "Vinsanto 12 Years",
+  "prod_gr": "Santo Wines",
+  "name_en": "Vinsanto 12 Years",
+  "prod_en": "Santo Wines",
+  "glass": 18,
+  "bottle": 87,
+  "grapes_gr": "ΑΣΥΡΤΙΚΟ, ΑΗΔΑΝΙ • Π.Ο.Π. ΣΑΝΤΟΡΙΝΗ",
+  "grapes_en": "ASSYRTIKO, AIDANI • PDO SANTORINI",
+  "desc_gr": "Αποξηραμένα φρούτα, καραμέλα και μακρά επίγευση",
+  "desc_en": "Dried fruit, caramel, long finish",
+  "sizes": [
+   "75 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "code": 101,
+  "section": "white",
+  "sub": [
+   "Η Ταυτότητα της Φλώρινας & του Αμυνταίου",
+   "The Terroir of Florina & Amyndeon"
+  ],
+  "name_gr": "Πνοή",
+  "prod_gr": "Arktos Elevation Vineyards",
+  "name_en": "Pnoi",
+  "prod_en": "Arktos Elevation Vineyards",
+  "glass": null,
+  "bottle": 39,
+  "grapes_gr": "ΑΣΥΡΤΙΚΟ, ΞΙΝΟΜΑΥΡΟ (BLANC DE NOIRS) • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "ASSYRTIKO, XINOMAVRO (BLANC DE NOIRS) • PGI FLORINA",
+  "desc_gr": "Ορυκτό, με εσπεριδοειδή και δροσιά ορεινού αμπελώνα, ζωηρή οξύτητα και κομψή δομή.",
+  "desc_en": "Mineral, citrus-driven, high-altitude freshness with vibrant acidity and elegant structure."
+ },
+ {
+  "code": 102,
+  "section": "white",
+  "sub": [
+   "Η Ταυτότητα της Φλώρινας & του Αμυνταίου",
+   "The Terroir of Florina & Amyndeon"
+  ],
+  "name_gr": "Τέσσερις Λίμνες",
+  "prod_gr": "Κυρ-Γιάννη",
+  "name_en": "Tesseris Limnes",
+  "prod_en": "Kir-Yianni",
+  "glass": null,
+  "bottle": 42,
+  "grapes_gr": "CHARDONNAY, GEWÜRZTRAMINER • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "CHARDONNAY, GEWÜRZTRAMINER • PGI FLORINA",
+  "desc_gr": "Αρωματικό, στρογγυλό, με έντονο φρουτώδη χαρακτήρα",
+  "desc_en": "Aromatic, rounded, fruit-driven style"
+ },
+ {
+  "code": 103,
+  "section": "white",
+  "sub": [
+   "Η Ταυτότητα της Φλώρινας & του Αμυνταίου",
+   "The Terroir of Florina & Amyndeon"
+  ],
+  "name_gr": "Άρκτος Sauvignon Blanc",
+  "prod_gr": "Arktos Elevation Vineyards",
+  "name_en": "Arktos Sauvignon Blanc",
+  "prod_en": "Arktos Elevation Vineyards",
+  "glass": null,
+  "bottle": 45,
+  "grapes_gr": "SAUVIGNON BLANC • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "SAUVIGNON BLANC • PGI FLORINA",
+  "desc_gr": "Τραγανό, με εσπεριδοειδή, βοτανικές νότες και δροσιά ορεινού αμπελώνα",
+  "desc_en": "Crisp, citrus-driven, herbal, high-altitude freshness"
+ },
+ {
+  "code": 104,
+  "section": "white",
+  "sub": [
+   "Η Ταυτότητα της Φλώρινας & του Αμυνταίου",
+   "The Terroir of Florina & Amyndeon"
+  ],
+  "name_gr": "Tarsanas",
+  "prod_gr": "Κυρ-Γιάννη",
+  "name_en": "Tarsanas",
+  "prod_en": "Kir-Yianni",
+  "glass": null,
+  "bottle": 55,
+  "grapes_gr": "ΑΣΥΡΤΙΚΟ • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "ASSYRTIKO • PGI FLORINA",
+  "desc_gr": "Δομημένο, ορυκτό, με γαστρονομικό χαρακτήρα",
+  "desc_en": "Structured, mineral, gastronomic style"
+ },
+ {
+  "code": 105,
+  "section": "white",
+  "sub": [
+   "Η Ταυτότητα της Φλώρινας & του Αμυνταίου",
+   "The Terroir of Florina & Amyndeon"
+  ],
+  "name_gr": "Πάλπο",
+  "prod_gr": "Κυρ-Γιάννη",
+  "name_en": "Palpo",
+  "prod_en": "Kir-Yianni",
+  "glass": null,
+  "bottle": 55,
+  "grapes_gr": "CHARDONNAY • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "CHARDONNAY • PGI FLORINA",
+  "desc_gr": "Πλούσιο, βαρελάτο, σύνθετο, με γαστρονομικό χαρακτήρα",
+  "desc_en": "Rich, barrel-aged, complex, gastronomic style"
+ },
+ {
+  "code": 121,
+  "section": "white",
+  "sub": [
+   "Συλλογή Ασύρτικου",
+   "Assyrtiko Collection"
+  ],
+  "name_gr": "Ασύρτικο",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "Assyrtiko",
+  "prod_en": "Alpha Estate",
+  "glass": null,
+  "bottle": 60,
+  "grapes_gr": "ΑΣΥΡΤΙΚΟ • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "ASSYRTIKO • PGI FLORINA",
+  "desc_gr": "Τραγανό και έντονο, με ισχυρό ορυκτό πυρήνα",
+  "desc_en": "Crisp, intense, mineral core"
+ },
+ {
+  "code": 122,
+  "section": "white",
+  "sub": [
+   "Συλλογή Ασύρτικου",
+   "Assyrtiko Collection"
+  ],
+  "name_gr": "Assyrtiko Ancien 2018",
+  "prod_gr": "Κυρ-Γιάννη",
+  "name_en": "Assyrtiko Ancien 2018",
+  "prod_en": "Kir-Yianni",
+  "glass": null,
+  "bottle": 84,
+  "grapes_gr": "ΑΣΥΡΤΙΚΟ • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "ASSYRTIKO • PGI FLORINA",
+  "desc_gr": "Ασύρτικο παλαιωμένο με τη μέθοδο Solera, πολυεπίπεδο, με οξειδωτικές νύξεις, καβουρδισμένους ξηρούς καρπούς, αποξηραμένα εσπεριδοειδή, αλμυρή ορυκτότητα και μακρά σύνθετη επίγευση",
+  "desc_en": "Solera-aged Assyrtiko, layered, oxidative nuances, toasted nuts, dried citrus, saline minerality, long complex finish"
+ },
+ {
+  "code": 123,
+  "section": "white",
+  "sub": [
+   "Συλλογή Ασύρτικου",
+   "Assyrtiko Collection"
+  ],
+  "name_gr": "Cuvée Monsignori",
+  "prod_gr": "Estate Argyros",
+  "name_en": "Cuvée Monsignori",
+  "prod_en": "Estate Argyros",
+  "glass": null,
+  "bottle": 98,
+  "grapes_gr": "ΑΣΥΡΤΙΚΟ • Π.Ο.Π. ΣΑΝΤΟΡΙΝΗ",
+  "grapes_en": "ASSYRTIKO • PDO SANTORINI",
+  "desc_gr": "Μεγάλη ακρίβεια και έντονη ορυκτότητα",
+  "desc_en": "High precision, mineral intensity"
+ },
+ {
+  "code": 124,
+  "section": "white",
+  "sub": [
+   "Συλλογή Ασύρτικου",
+   "Assyrtiko Collection"
+  ],
+  "name_gr": "Νυχτέρι",
+  "prod_gr": "Σιγάλας",
+  "name_en": "Nykteri",
+  "prod_en": "Domaine Sigalas",
+  "glass": null,
+  "bottle": 170,
+  "grapes_gr": "ΑΣΥΡΤΙΚΟ, ΑΗΔΑΝΙ • Π.Ο.Π. ΣΑΝΤΟΡΙΝΗ",
+  "grapes_en": "ASSYRTIKO, AIDANI • PDO SANTORINI",
+  "desc_gr": "Δυνατό και πλούσιο, με εμφανή επιρροή του βαρελιού",
+  "desc_en": "Powerful, rich, barrel-influenced style"
+ },
+ {
+  "code": 141,
+  "section": "white",
+  "sub": [
+   "Γαστρονομικά Λευκά",
+   "Gastronomic Whites"
+  ],
+  "name_gr": "Μαλαγουζιά \"Λατύπες\"",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "Malagouzia \"Latipes\"",
+  "prod_en": "Alpha Estate",
+  "glass": null,
+  "bottle": 55,
+  "grapes_gr": "ΜΑΛΑΓΟΥΖΙΑ • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "MALAGOUZIA • PGI FLORINA",
+  "desc_gr": "Πλούσιο, ανθικό, με κομψή δομή",
+  "desc_en": "Rich, floral, elegant structure"
+ },
+ {
+  "code": 142,
+  "section": "white",
+  "sub": [
+   "Γαστρονομικά Λευκά",
+   "Gastronomic Whites"
+  ],
+  "name_gr": "Chardonnay",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "Chardonnay",
+  "prod_en": "Alpha Estate",
+  "glass": null,
+  "bottle": 57,
+  "grapes_gr": "CHARDONNAY • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "CHARDONNAY • PGI FLORINA",
+  "desc_gr": "Στρογγυλό, με πλούσια υφή και ισορροπημένη παρουσία δρυός",
+  "desc_en": "Round, textured, balanced oak style"
+ },
+ {
+  "code": 143,
+  "section": "white",
+  "sub": [
+   "Γαστρονομικά Λευκά",
+   "Gastronomic Whites"
+  ],
+  "name_gr": "Sauvignon Blanc Fumé",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "Sauvignon Blanc Fumé",
+  "prod_en": "Alpha Estate",
+  "glass": null,
+  "bottle": 60,
+  "grapes_gr": "SAUVIGNON BLANC • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "SAUVIGNON BLANC • PGI FLORINA",
+  "desc_gr": "Καπνιστό, σύνθετο και δομημένο προφίλ",
+  "desc_en": "Smoky, complex, structured profile"
+ },
+ {
+  "code": 144,
+  "section": "white",
+  "sub": [
+   "Γαστρονομικά Λευκά",
+   "Gastronomic Whites"
+  ],
+  "name_gr": "Ovilos",
+  "prod_gr": "Κτήμα Βιβλία Χώρα",
+  "name_en": "Ovilos",
+  "prod_en": "Ktima Biblia Chora",
+  "glass": null,
+  "bottle": 70,
+  "grapes_gr": "ΑΣΥΡΤΙΚΟ, SEMILLON • Π.Γ.Ε. ΠΑΓΓΑΙΟ",
+  "grapes_en": "ASSYRTIKO, SEMILLON • PGI PANGAION",
+  "desc_gr": "Σύνθετο, πολυεπίπεδο, γαστρονομικό λευκό",
+  "desc_en": "Complex, layered, gastronomic white"
+ },
+ {
+  "code": 201,
+  "section": "rose",
+  "sub": null,
+  "name_gr": "Rosé",
+  "prod_gr": "Μέγα Σπήλαιο",
+  "name_en": "Rosé",
+  "prod_en": "Mega Spilaio",
+  "glass": null,
+  "bottle": 30,
+  "grapes_gr": "ΜΑΛΑΓΟΥΖΙΑ, CABERNET FRANC • Π.Γ.Ε. ΑΧΑΪΑ",
+  "grapes_en": "MALAGOUZIA, CABERNET FRANC • PGI ACHAEA",
+  "desc_gr": "Δροσερό και κομψό ροζέ τύπου Προβηγκίας, με αρωματική ένταση και καθαρή επίγευση",
+  "desc_en": "Fresh, elegant, Provence-style rosé with aromatic lift and clean finish"
+ },
+ {
+  "code": 202,
+  "section": "rose",
+  "sub": null,
+  "name_gr": "Rosé",
+  "prod_gr": "Costa Lazaridi",
+  "name_en": "Rosé",
+  "prod_en": "Costa Lazaridi",
+  "glass": null,
+  "bottle": 42,
+  "grapes_gr": "MERLOT, ΑΓΙΩΡΓΙΤΙΚΟ, GRENACHE • Π.Γ.Ε. ΔΡΑΜΑ",
+  "grapes_en": "MERLOT, AGIORGITIKO, GRENACHE • PGI DRAMA",
+  "desc_gr": "Κομψό, φρουτώδες και ισορροπημένο ροζέ με καθαρό, σύγχρονο ύφος",
+  "desc_en": "Elegant, fruity, balanced rosé with clean modern style"
+ },
+ {
+  "code": 203,
+  "section": "rose",
+  "sub": null,
+  "name_gr": "L'Esprit du Lac",
+  "prod_gr": "Κυρ-Γιάννη",
+  "name_en": "L'Esprit du Lac",
+  "prod_en": "Kir-Yianni",
+  "glass": null,
+  "bottle": 42,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ • Π.Ο.Π. ΑΜΥΝΤΑΙΟ",
+  "grapes_en": "XINOMAVRO • PDO AMYNDEON",
+  "desc_gr": "Κομψό, γαστρονομικό ροζέ",
+  "desc_en": "Elegant, gastronomic rosé"
+ },
+ {
+  "code": 204,
+  "section": "rose",
+  "sub": null,
+  "name_gr": "ALMA Rosé",
+  "prod_gr": "Κτήμα Παυλίδη",
+  "name_en": "ALMA Rosé",
+  "prod_en": "Pavlidis Estate",
+  "glass": null,
+  "bottle": 44,
+  "grapes_gr": "ΑΓΙΩΡΓΙΤΙΚΟ, SYRAH • Π.Γ.Ε. ΔΡΑΜΑ",
+  "grapes_en": "AGIORGITIKO, SYRAH • PGI DRAMA",
+  "desc_gr": "Δροσερό, ξηρό και κομψό ροζέ, με εσπεριδοειδή και ζωηρή οξύτητα",
+  "desc_en": "Fresh, citrus-driven, elegant dry rosé with lively acidity"
+ },
+ {
+  "code": 205,
+  "section": "rose",
+  "sub": null,
+  "name_gr": "Idylle d’Achinos",
+  "prod_gr": "La Tour Melas",
+  "name_en": "Idylle d’Achinos",
+  "prod_en": "La Tour Melas",
+  "glass": null,
+  "bottle": 44,
+  "grapes_gr": "GRENACHE, SYRAH • Π.Γ.Ε. ΦΘΙΩΤΙΔΑ",
+  "grapes_en": "GRENACHE, SYRAH • PGI PHTHIOTIS",
+  "desc_gr": "Εκλεπτυσμένο και σύνθετο, με μεταξένια υφή",
+  "desc_en": "Refined, complex, silky texture"
+ },
+ {
+  "code": 206,
+  "section": "rose",
+  "sub": null,
+  "name_gr": "Xinomavro Rosé",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "Xinomavro Rosé",
+  "prod_en": "Alpha Estate",
+  "glass": null,
+  "bottle": 50,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ • Π.Ο.Π. ΑΜΥΝΤΑΙΟ",
+  "grapes_en": "XINOMAVRO • PDO AMYNDEON",
+  "desc_gr": "Δομημένο, ακριβές και υψηλής ποιότητας ροζέ",
+  "desc_en": "Structured, precise, premium rosé"
+ },
+ {
+  "code": 301,
+  "section": "red",
+  "sub": [
+   "Εμβληματικά κρασιά της Βόρειας Ελλάδας",
+   "Northern Greece Icons"
+  ],
+  "name_gr": "Κοντή Καρυδιά",
+  "prod_gr": "Κτήμα Δημόπουλος",
+  "name_en": "Konti Karydia",
+  "prod_en": "Dimopoulos Estate",
+  "glass": null,
+  "bottle": 40,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ, CABERNET SAUVIGNON, MONTEPULCIANO • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "XINOMAVRO, CABERNET SAUVIGNON, MONTEPULCIANO • PGI FLORINA",
+  "desc_gr": "Ώριμο βύσσινο και σύκο, θερμά μπαχαρικά δρυός, espresso και επίμονη πικάντικη επίγευση",
+  "desc_en": "Ripe sour cherry & fig, warm oak spices, espresso, persistent spicy finish"
+ },
+ {
+  "code": 302,
+  "section": "red",
+  "sub": [
+   "Εμβληματικά κρασιά της Βόρειας Ελλάδας",
+   "Northern Greece Icons"
+  ],
+  "name_gr": "Syrah \"Χελώνες\"",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "Syrah \"Chelones\"",
+  "prod_en": "Alpha Estate",
+  "glass": null,
+  "bottle": 54,
+  "grapes_gr": "SYRAH • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "SYRAH • PGI FLORINA",
+  "desc_gr": "Πικάντικο, με σκούρα φρούτα και βελούδινη επίγευση",
+  "desc_en": "Spicy, dark fruit, velvety finish"
+ },
+ {
+  "code": 303,
+  "section": "red",
+  "sub": [
+   "Εμβληματικά κρασιά της Βόρειας Ελλάδας",
+   "Northern Greece Icons"
+  ],
+  "name_gr": "Syrah",
+  "prod_gr": "Κτήμα Γεροβασιλείου",
+  "name_en": "Syrah",
+  "prod_en": "Ktima Gerovassiliou",
+  "glass": null,
+  "bottle": 56,
+  "grapes_gr": "SYRAH • Π.Γ.Ε. ΕΠΑΝΟΜΗ",
+  "grapes_en": "SYRAH • PGI EPANOMI",
+  "desc_gr": "Κομψό και εκλεπτυσμένο Syrah, με ώριμα φρούτα, μπαχαρικά και ισορροπημένη δομή δρυός",
+  "desc_en": "Elegant, polished Syrah with ripe fruit, spice and balanced oak structure"
+ },
+ {
+  "code": 304,
+  "section": "red",
+  "sub": [
+   "Εμβληματικά κρασιά της Βόρειας Ελλάδας",
+   "Northern Greece Icons"
+  ],
+  "name_gr": "Λημνιώνα",
+  "prod_gr": "Κτήμα Καρανίκα",
+  "name_en": "Limniona",
+  "prod_en": "Domaine Karanika",
+  "glass": null,
+  "bottle": 58,
+  "grapes_gr": "ΛΗΜΝΙΩΝΑ • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "LIMNIONA • PGI FLORINA",
+  "desc_gr": "Κομψό, ανθικό ερυθρό με υψηλή οξύτητα, φινέτσα και καθαρότητα που θυμίζει Pinot Noir",
+  "desc_en": "Elegant, high-acid, floral red with Pinot-like finesse and purity"
+ },
+ {
+  "code": 305,
+  "section": "red",
+  "sub": [
+   "Εμβληματικά κρασιά της Βόρειας Ελλάδας",
+   "Northern Greece Icons"
+  ],
+  "name_gr": "Tannat",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "Tannat",
+  "prod_en": "Alpha Estate",
+  "glass": null,
+  "bottle": 60,
+  "grapes_gr": "TANNAT • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "TANNAT • PGI FLORINA",
+  "desc_gr": "Γεμάτο σώμα, έντονα δομημένο και δυναμικό ερυθρό, με πυκνό τανικό σκελετό και δυνατότητα παλαίωσης",
+  "desc_en": "Full-bodied, highly structured, age-worthy power red with dense tannic backbone"
+ },
+ {
+  "code": 306,
+  "section": "red",
+  "sub": [
+   "Εμβληματικά κρασιά της Βόρειας Ελλάδας",
+   "Northern Greece Icons"
+  ],
+  "name_gr": "Pinot Noir",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "Pinot Noir",
+  "prod_en": "Alpha Estate",
+  "glass": null,
+  "bottle": 60,
+  "grapes_gr": "PINOT NOIR • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "PINOT NOIR • PGI FLORINA",
+  "desc_gr": "Κομψό και δροσερό ερυθρό ψυχρού κλίματος, με λεπτές τανίνες και καθαρότητα κόκκινων φρούτων",
+  "desc_en": "Elegant, fresh, cool-climate red with fine tannins and red fruit purity"
+ },
+ {
+  "code": 307,
+  "section": "red",
+  "sub": [
+   "Εμβληματικά κρασιά της Βόρειας Ελλάδας",
+   "Northern Greece Icons"
+  ],
+  "name_gr": "Château Julia Merlot",
+  "prod_gr": "Costa Lazaridi",
+  "name_en": "Château Julia Merlot",
+  "prod_en": "Costa Lazaridi",
+  "glass": null,
+  "bottle": 63,
+  "grapes_gr": "MERLOT • Π.Γ.Ε. ΔΡΑΜΑ",
+  "grapes_en": "MERLOT • PGI DRAMA",
+  "desc_gr": "Γεμάτο Merlot με έντονη παρουσία δρυός, ώριμα φρούτα και σοκολάτα, σε δομημένο σύγχρονο διεθνές ύφος",
+  "desc_en": "Full-bodied, oak-driven Merlot with ripe fruit, chocolate and structured, modern international style"
+ },
+ {
+  "code": 308,
+  "section": "red",
+  "sub": [
+   "Εμβληματικά κρασιά της Βόρειας Ελλάδας",
+   "Northern Greece Icons"
+  ],
+  "name_gr": "Avaton",
+  "prod_gr": "Κτήμα Γεροβασιλείου",
+  "name_en": "Avaton",
+  "prod_en": "Ktima Gerovassiliou",
+  "glass": null,
+  "bottle": 67,
+  "grapes_gr": "ΛΗΜΝΙΟ, ΜΑΥΡΟΥΔΙ, ΜΑΥΡΟΤΡΑΓΑΝΟ • Π.Γ.Ε. ΕΠΑΝΟΜΗ",
+  "grapes_en": "LIMNIO, MAVROUDI, MAVROTRAGANO • PGI EPANOMI",
+  "desc_gr": "Κομψό, πικάντικο, με μεσογειακό χαρακτήρα",
+  "desc_en": "Elegant, spicy, Mediterranean"
+ },
+ {
+  "code": 309,
+  "section": "red",
+  "sub": [
+   "Εμβληματικά κρασιά της Βόρειας Ελλάδας",
+   "Northern Greece Icons"
+  ],
+  "name_gr": "SMX",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "SMX",
+  "prod_en": "Alpha Estate",
+  "glass": null,
+  "bottle": 70,
+  "grapes_gr": "SYRAH, MERLOT, ΞΙΝΟΜΑΥΡΟ • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "SYRAH, MERLOT, XINOMAVRO • PGI FLORINA",
+  "desc_gr": "Γεμάτο σώμα, πικάντικο και σύνθετο",
+  "desc_en": "Full-bodied, spicy, complex"
+ },
+ {
+  "code": 310,
+  "section": "red",
+  "sub": [
+   "Εμβληματικά κρασιά της Βόρειας Ελλάδας",
+   "Northern Greece Icons"
+  ],
+  "name_gr": "Cava Amethystos",
+  "prod_gr": "Costa Lazaridi",
+  "name_en": "Cava Amethystos",
+  "prod_en": "Costa Lazaridi",
+  "glass": null,
+  "bottle": 78,
+  "grapes_gr": "CABERNET FRANC • Π.Γ.Ε. ΔΡΑΜΑ",
+  "grapes_en": "CABERNET FRANC • PGI DRAMA",
+  "desc_gr": "Κομψό, βοτανικό και δομημένο",
+  "desc_en": "Elegant, herbal, structured"
+ },
+ {
+  "code": 311,
+  "section": "red",
+  "sub": [
+   "Εμβληματικά κρασιά της Βόρειας Ελλάδας",
+   "Northern Greece Icons"
+  ],
+  "name_gr": "Μπλε Αλεπού",
+  "prod_gr": "Κυρ-Γιάννη",
+  "name_en": "Ble Alepou",
+  "prod_en": "Kir-Yianni",
+  "glass": null,
+  "bottle": 100,
+  "grapes_gr": "SYRAH, CABERNET SAUVIGNON, CABERNET FRANC, MALBEC, MERLOT, PETIT VERDOT • Π.Γ.Ε. ΗΜΑΘΙΑ",
+  "grapes_en": "SYRAH, CABERNET SAUVIGNON, CABERNET FRANC, MALBEC, MERLOT, PETIT VERDOT • PGI IMATHIA",
+  "desc_gr": "Πλούσιο, πικάντικο και δομημένο",
+  "desc_en": "Rich, spicy, structured"
+ },
+ {
+  "code": 321,
+  "section": "red",
+  "sub": [
+   "Οι Μεγάλες Εκφράσεις του Ξινόμαυρου",
+   "Xinomavro Masters"
+  ],
+  "name_gr": "Ξινόμαυρο Amyntaion Reserve",
+  "prod_gr": "Amyntas Winery",
+  "name_en": "Xinomavro Amyntaion Reserve",
+  "prod_en": "Amyntas Winery",
+  "glass": null,
+  "bottle": 30,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ • Π.Ο.Π. ΑΜΥΝΤΑΙΟ",
+  "grapes_en": "XINOMAVRO • PDO AMYNDEON",
+  "desc_gr": "Σύνθετο και παλαιωμένο, με ώριμο φρούτο, μπαχαρικά, βανίλια και ενσωματωμένες τανίνες",
+  "desc_en": "Complex and aged, with ripe fruit, spice, vanilla and well-integrated tannins"
+ },
+ {
+  "code": 322,
+  "section": "red",
+  "sub": [
+   "Οι Μεγάλες Εκφράσεις του Ξινόμαυρου",
+   "Xinomavro Masters"
+  ],
+  "name_gr": "Ξινόμαυρο Reserve",
+  "prod_gr": "Κτήμα Δημόπουλος",
+  "name_en": "Xinomavro Reserve",
+  "prod_en": "Dimopoulos Estate",
+  "glass": null,
+  "bottle": 44,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ • Π.Ο.Π. ΑΜΥΝΤΑΙΟ",
+  "grapes_en": "XINOMAVRO • PDO AMYNDEON",
+  "desc_gr": "Λιαστή ντομάτα και πάστα ελιάς, γλυκά μπαχαρικά δρυός, γεμάτο σώμα και μακρά, εκλεπτυσμένη επίγευση",
+  "desc_en": "Sun-dried tomato & olive tapenade, sweet oak spices, full-bodied, long refined finish"
+ },
+ {
+  "code": 323,
+  "section": "red",
+  "sub": [
+   "Οι Μεγάλες Εκφράσεις του Ξινόμαυρου",
+   "Xinomavro Masters"
+  ],
+  "name_gr": "Ξινόμαυρο Reserve",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "Xinomavro Reserve",
+  "prod_en": "Alpha Estate",
+  "glass": null,
+  "bottle": 52,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ • Π.Ο.Π. ΑΜΥΝΤΑΙΟ",
+  "grapes_en": "XINOMAVRO • PDO AMYNDEON",
+  "desc_gr": "Βαθύ, δομημένο, με δυνατότητα μακράς παλαίωσης",
+  "desc_en": "Deep, structured, age-worthy"
+ },
+ {
+  "code": 324,
+  "section": "red",
+  "sub": [
+   "Οι Μεγάλες Εκφράσεις του Ξινόμαυρου",
+   "Xinomavro Masters"
+  ],
+  "name_gr": "Ράμνιστα",
+  "prod_gr": "Κυρ-Γιάννη",
+  "name_en": "Ramnista",
+  "prod_en": "Kir-Yianni",
+  "glass": null,
+  "bottle": 68,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ • Π.Ο.Π. ΝΑΟΥΣΑ",
+  "grapes_en": "XINOMAVRO • PDO NAOUSSA",
+  "desc_gr": "Δομημένο, ώριμο και σύνθετο",
+  "desc_en": "Structured, aged, complex"
+ },
+ {
+  "code": 325,
+  "section": "red",
+  "sub": [
+   "Οι Μεγάλες Εκφράσεις του Ξινόμαυρου",
+   "Xinomavro Masters"
+  ],
+  "name_gr": "Earth and Sky",
+  "prod_gr": "Θυμιόπουλος",
+  "name_en": "Earth and Sky",
+  "prod_en": "Thymiopoulos Vineyards",
+  "glass": null,
+  "bottle": 95,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ • Π.Ο.Π. ΝΑΟΥΣΑ",
+  "grapes_en": "XINOMAVRO • PDO NAOUSSA",
+  "desc_gr": "Λιτό και καθαρό, με έντονη έκφραση του terroir",
+  "desc_en": "Minimal, pure, terroir-driven"
+ },
+ {
+  "code": 401,
+  "section": "prestige",
+  "sub": null,
+  "name_gr": "Ecosystem Ξινόμαυρο Reserve Vieilles Vignes 2015",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "Ecosystem Xinomavro Reserve Vieilles Vignes 2015",
+  "prod_en": "Alpha Estate",
+  "glass": null,
+  "bottle": 73,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ • Π.Ο.Π. ΑΜΥΝΤΑΙΟ",
+  "grapes_en": "XINOMAVRO • PDO AMYNDEON",
+  "desc_gr": "Ξινόμαυρο από παλαιά κλήματα του ιστορικού μονοαμπελώνα «Μπάρμπα Γιάννης»",
+  "desc_en": "Old-vine Xinomavro from the historic single vineyard \"Barba Yannis\""
+ },
+ {
+  "code": 402,
+  "section": "prestige",
+  "sub": null,
+  "name_gr": "Μέγας Οίνος 2016",
+  "prod_gr": "Σκούρας",
+  "name_en": "Megas Oenos 2016",
+  "prod_en": "Domaine Skouras",
+  "glass": null,
+  "bottle": 80,
+  "grapes_gr": "ΑΓΙΩΡΓΙΤΙΚΟ, CABERNET SAUVIGNON • Π.Γ.Ε. ΠΕΛΟΠΟΝΝΗΣΟΣ",
+  "grapes_en": "AGIORGITIKO, CABERNET SAUVIGNON • PGI PELOPONNESE",
+  "desc_gr": "Πλούσιο και δομημένο, ένα σύγχρονο ελληνικό κλασικό κρασί",
+  "desc_en": "Rich, structured, modern Greek classic"
+ },
+ {
+  "code": 403,
+  "section": "prestige",
+  "sub": null,
+  "name_gr": "Διάπορος 2018",
+  "prod_gr": "Κυρ-Γιάννη",
+  "name_en": "Diaporos 2018",
+  "prod_en": "Kir-Yianni",
+  "glass": null,
+  "bottle": 105,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ, SYRAH • Π.Γ.Ε. ΗΜΑΘΙΑ",
+  "grapes_en": "XINOMAVRO, SYRAH • PGI IMATHIA",
+  "desc_gr": "Εμβληματικό ερυθρό χαρμάνι, με δυνατή δομή, μαύρα φρούτα, βιολέτα, μπαχαρικά και σοκολάτα",
+  "desc_en": "Flagship red blend, powerful structure, black fruit, violet, spice, chocolate"
+ },
+ {
+  "code": 404,
+  "section": "prestige",
+  "sub": null,
+  "name_gr": "Μαυροτράγανο 2023",
+  "prod_gr": "Σιγάλας",
+  "name_en": "Mavrotragano 2023",
+  "prod_en": "Domaine Sigalas",
+  "glass": null,
+  "bottle": 140,
+  "grapes_gr": "ΜΑΥΡΟΤΡΑΓΑΝΟ • Π.Γ.Ε. ΚΥΚΛΑΔΕΣ",
+  "grapes_en": "MAVROTRAGANO • PGI CYCLADES",
+  "desc_gr": "Δυνατό ηφαιστειακό ερυθρό, με πυκνή δομή, μπαχαρικά και εξαιρετική συμπύκνωση",
+  "desc_en": "Powerful volcanic red with dense structure, spice, and extreme concentration"
+ },
+ {
+  "code": 405,
+  "section": "prestige",
+  "sub": null,
+  "name_gr": "SMX 2013",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "SMX 2013",
+  "prod_en": "Alpha Estate",
+  "glass": null,
+  "bottle": 160,
+  "grapes_gr": "SYRAH, MERLOT, ΞΙΝΟΜΑΥΡΟ • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "SYRAH, MERLOT, XINOMAVRO • PGI FLORINA",
+  "desc_gr": "Δομημένο, πικάντικο και σύνθετο, με παλαίωση σε βαρέλι",
+  "desc_en": "Structured, spicy, complex, barrel-aged"
+ },
+ {
+  "code": 406,
+  "section": "prestige",
+  "sub": null,
+  "name_gr": "The Emperor 2021",
+  "prod_gr": "Κτήμα Παπαργυρίου",
+  "name_en": "The Emperor 2021",
+  "prod_en": "Papargyriou Estate",
+  "glass": null,
+  "bottle": 175,
+  "grapes_gr": "MERLOT, CABERNET FRANC • Π.Γ.Ε. ΚΟΡΙΝΘΙΑ",
+  "grapes_en": "MERLOT, CABERNET FRANC • PGI CORINTHIA",
+  "desc_gr": "Δυνατό και συμπυκνωμένο, με χαρακτήρα σκούρων φρούτων",
+  "desc_en": "Powerful, concentrated, dark-fruited"
+ },
+ {
+  "code": 407,
+  "section": "prestige",
+  "sub": null,
+  "name_gr": "Last Baron 2023",
+  "prod_gr": "Μιχαηλίδης",
+  "name_en": "Last Baron 2023",
+  "prod_en": "Ktima Michailidis",
+  "glass": null,
+  "bottle": 200,
+  "grapes_gr": "CABERNET FRANC • Π.Γ.Ε. ΔΡΑΜΑ",
+  "grapes_en": "CABERNET FRANC • PGI DRAMA",
+  "desc_gr": "Πικάντικο, εκλεπτυσμένο, με μακρά επίγευση",
+  "desc_en": "Spicy, refined, long finish"
+ },
+ {
+  "code": 408,
+  "section": "prestige",
+  "sub": null,
+  "name_gr": "Alpha One 2012",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "Alpha One 2012",
+  "prod_en": "Alpha Estate",
+  "glass": null,
+  "bottle": 335,
+  "grapes_gr": "SYRAH • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "SYRAH • PGI FLORINA",
+  "desc_gr": "Εμβληματικό κρασί του Κτήματος Άλφα, με συμπυκνωμένα μαύρα φρούτα, μπαχαρικά και σύνθετη παρουσία δρυός",
+  "desc_en": "Flagship wine of Alpha Estate, concentrated black fruit, spice, oak complexity"
+ },
+ {
+  "code": 409,
+  "section": "prestige",
+  "sub": null,
+  "name_gr": "Mavrotragano Rare 2022",
+  "prod_gr": "T-Oinos",
+  "name_en": "Mavrotragano Rare 2022",
+  "prod_en": "T-Oinos",
+  "glass": null,
+  "bottle": 370,
+  "grapes_gr": "ΜΑΥΡΟΤΡΑΓΑΝΟ • Π.Γ.Ε. ΚΥΚΛΑΔΕΣ",
+  "grapes_en": "MAVROTRAGANO • PGI CYCLADES",
+  "desc_gr": "Τολμηρό, σύνθετο και συλλεκτικό",
+  "desc_en": "Bold, complex, collectible"
+ },
+ {
+  "code": 501,
+  "section": "champagne",
+  "sub": null,
+  "name_gr": "Amalia Brut",
+  "prod_gr": "Κτήμα Τσέλεπου",
+  "name_en": "Amalia Brut",
+  "prod_en": "Ktima Tselepos",
+  "glass": null,
+  "bottle": 60,
+  "grapes_gr": "ΜΟΣΧΟΦΙΛΕΡΟ • Π.Ο.Π. ΜΑΝΤΙΝΕΙΑ",
+  "grapes_en": "MOSCHOFILERO • PDO MANTINIA",
+  "desc_gr": "Δροσερή, ανθική και τραγανή έκφραση",
+  "desc_en": "Fresh, floral, crisp expression"
+ },
+ {
+  "code": 502,
+  "section": "champagne",
+  "sub": null,
+  "name_gr": "Anda Luna",
+  "prod_gr": "Κτήμα Άλφα",
+  "name_en": "Anda Luna",
+  "prod_en": "Alpha Estate",
+  "glass": null,
+  "bottle": 80,
+  "grapes_gr": "ΞΙΝΟΜΑΥΡΟ • Π.Γ.Ε. ΦΛΩΡΙΝΑ",
+  "grapes_en": "XINOMAVRO • PGI FLORINA",
+  "desc_gr": "Δροσερό και φρουτώδες αφρώδες ύφος",
+  "desc_en": "Fresh, fruity sparkling style"
+ },
+ {
+  "code": 503,
+  "section": "champagne",
+  "sub": null,
+  "name_gr": "Moët & Chandon Brut Impérial",
+  "prod_gr": "",
+  "name_en": "Moët & Chandon Brut Impérial",
+  "prod_en": "",
+  "glass": null,
+  "bottle": 120,
+  "grapes_gr": "PINOT NOIR, PINOT MEUNIER, CHARDONNAY • CHAMPAGNE",
+  "grapes_en": "PINOT NOIR, PINOT MEUNIER, CHARDONNAY • CHAMPAGNE",
+  "desc_gr": "Κλασικό και ισορροπημένο, με κομψές λεπτές φυσαλίδες",
+  "desc_en": "Classic, balanced, elegant mousse"
+ },
+ {
+  "code": 504,
+  "section": "champagne",
+  "sub": null,
+  "name_gr": "Lanson Rosé Champagne",
+  "prod_gr": "",
+  "name_en": "Lanson Rosé Champagne",
+  "prod_en": "",
+  "glass": null,
+  "bottle": 120,
+  "grapes_gr": "PINOT NOIR, CHARDONNAY • CHAMPAGNE",
+  "grapes_en": "PINOT NOIR, CHARDONNAY • CHAMPAGNE",
+  "desc_gr": "Δροσερή και κομψή ροζέ Champagne, με αρώματα κόκκινων μούρων",
+  "desc_en": "Fresh, elegant rosé Champagne with red berry aromas"
+ },
+ {
+  "code": 505,
+  "section": "champagne",
+  "sub": null,
+  "name_gr": "Veuve Clicquot Ponsardin Brut",
+  "prod_gr": "",
+  "name_en": "Veuve Clicquot Ponsardin Brut",
+  "prod_en": "",
+  "glass": null,
+  "bottle": 180,
+  "grapes_gr": "PINOT NOIR, CHARDONNAY, PINOT MEUNIER • CHAMPAGNE",
+  "grapes_en": "PINOT NOIR, CHARDONNAY, PINOT MEUNIER • CHAMPAGNE",
+  "desc_gr": "Έντονο και δομημένο, με χαρακτηριστικές νότες brioche",
+  "desc_en": "Bold, structured, brioche-driven style"
+ },
+ {
+  "code": 506,
+  "section": "champagne",
+  "sub": null,
+  "name_gr": "Ruinart Blanc de Blancs",
+  "prod_gr": "",
+  "name_en": "Ruinart Blanc de Blancs",
+  "prod_en": "",
+  "glass": null,
+  "bottle": 285,
+  "grapes_gr": "CHARDONNAY • CHAMPAGNE",
+  "grapes_en": "CHARDONNAY • CHAMPAGNE",
+  "desc_gr": "Καθαρή έκφραση Chardonnay, με λεπτές φυσαλίδες, εσπεριδοειδή, λευκά άνθη και κιμωλώδη ορυκτότητα",
+  "desc_en": "Pure Chardonnay expression with fine mousse, citrus, white flowers and chalky minerality"
+ },
+ {
+  "code": 507,
+  "section": "champagne",
+  "sub": null,
+  "name_gr": "Dom Pérignon 2013",
+  "prod_gr": "",
+  "name_en": "Dom Pérignon 2013",
+  "prod_en": "",
+  "glass": null,
+  "bottle": 550,
+  "grapes_gr": "CHARDONNAY, PINOT NOIR • CHAMPAGNE",
+  "grapes_en": "CHARDONNAY, PINOT NOIR • CHAMPAGNE",
+  "desc_gr": "Κρασί κύρους, σύνθετο, με εμβληματική δομή",
+  "desc_en": "Prestige, complex, iconic structure"
+ }
+]
